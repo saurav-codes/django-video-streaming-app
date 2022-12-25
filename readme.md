@@ -32,7 +32,7 @@ This is a web-based video streaming app built using Django in the backend and Ja
 
 ![Project Architecture Diagram](assets/readme/architecture.png)
 
-***📌Note:I have not included Docker & Kubernetes in architecture, since I am still learning & not sure about their all benefits. but will update this diagram, once I reach at the scaling part.***
+**_📌Note:I have not included Docker & Kubernetes in architecture, since I am still learning & not sure about their all benefits. but will update this diagram, once I reach at the scaling part._**
 
 ## 🤝 Contributing
 
@@ -41,6 +41,6 @@ If you would like to contribute to this project, please follow the steps below:
 1. Fork the repository
 2. Create a new branch for your feature.
 3. Commit your changes and push to the new branch.
-4. Create a pull request from your branch to the master branch of this repository.
+4. Create a pull request from your branch to the `main` branch of this repository.
 
 We welcome any contributions, big or small! Thank you for your interest in this project.
